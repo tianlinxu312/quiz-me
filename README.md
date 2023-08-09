@@ -8,7 +8,7 @@ This can be used by someone to prepare for exams or interviews. :D
 
 ## Install dependencies 
 
-Install packages in the requirements.txt: 
+Install packages in the [requirements.txt](./requirements.txt): 
 
 ```
 pip install -r requirements.txt
